@@ -1,4 +1,4 @@
-**RENAME EXISTING FOLDER(lab[#]github) IN THIS REPO, DELETE/REPLACE EXISTING lab[#].srcs FOLDER AND UPLOAD .xrc(Vivado Project File) (SEE SCREENSHOT FOR INSTRUCTIONS)**
+**UPLOAD YOUR .srcs(Folder) AND YOUR .xrc(Vivado Project File) (SEE SCREENSHOT FOR INSTRUCTIONS)**
 
 **REPLACE EVERYTHING IN BRACKETS(AND DELETE THE INSTRUCTIONS)**
 
@@ -14,15 +14,15 @@ For [OUTPUT] = [LOGICAL EQUATION]
 Running **Should** be as simple as downloading folder(as zip **using the giant green code button**), extracting, and running "lab[#].xpr" (Vivado Project File). Code can be seen directly in .srcs
 
 ## Design Sources Code
-**Path**: lab[#]_github/lab[#].srcs/sources_1/new/lab_[#].vhd
+**Path**: lab[#].srcs/sources_1/new/lab_[#].vhd
 
 ```vhdl
-[PASTE CODE FROM "lab[#]_github/lab[#].srcs/sources_1/new/lab_[#].vhd" HERE]
+[PASTE CODE FROM "lab[#].srcs/sources_1/new/lab_[#].vhd" HERE]
 ```
 
 ## Constraints Code
-**Path**: lab[#]_github/lab[#].srcs/constrs_1/new/lab_[#].xdc
+**Path**: lab[#].srcs/constrs_1/new/lab_[#].xdc
 
 ```tcl
-[PASTE CODE FROM "lab[#]_github/lab[#].srcs/constrs_1/new/lab_[#].xdc" HERE]
+[PASTE CODE FROM "lab[#].srcs/constrs_1/new/lab_[#].xdc" HERE]
 ```
