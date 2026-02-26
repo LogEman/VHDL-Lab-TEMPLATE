@@ -1,10 +1,12 @@
 **REPLACE EVERYTHING IN BRACKETS(AND DELETE THE INSTRUCTIONS)**
 
+**NOTE: NEWLINE IN MARKUP IS TWO SPACES, PUT TWO SPACES AT THE END OF EVERY LINE!!!**
+
 [OPEN GOOGLE DOCS -> INSERT TABLE -> FILLOUT TABLE - > COPY TABLE AS MARKUP -> REPLACE THIS TEXT WITH TABLE]
 
-For [OUTPUT] = [LOGICAL EQUATION]
-**Inputs**: [INPUTS]
-**Output(s)**: [OUTPUTS]
+For [OUTPUT] = [LOGICAL EQUATION]  
+**Inputs**: [INPUTS]  
+**Output(s)**: [OUTPUTS]  
 **Match**: Tested on hardware and matches table    
 
 Running **Should** be as simple as downloading folder(as zip **using the giant green code button**), extracting, and running "lab[#].xpr" (Vivado Project File). Code can be seen directly in .srcs
