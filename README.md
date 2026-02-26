@@ -1,8 +1,13 @@
 **UPLOAD YOUR .srcs(Folder) AND YOUR .xrc(Vivado Project File) (SEE SCREENSHOT FOR INSTRUCTIONS)**
 
+<img width="1920" height="1080" alt="Screenshot 2026-02-26 114038" src="https://github.com/user-attachments/assets/1a4bd4b6-5015-4f95-b0c0-e9c8ea647f47" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-26 114055" src="https://github.com/user-attachments/assets/b4f6efc9-5953-47c7-8a02-ab0e860a591c" />
+
+
 **REPLACE EVERYTHING IN BRACKETS(AND DELETE THE INSTRUCTIONS)**
 
-**NOTE: NEWLINE IN MARKUP IS TWO SPACES, PUT TWO SPACES AT THE END OF EVERY LINE!!!**
+**NOTE: NEWLINE IN MARKDOWN IS TWO SPACES, PUT TWO SPACES AT THE END OF EVERY LINE!!!**
 
 [OPEN GOOGLE DOCS -> INSERT TABLE -> FILLOUT TABLE - > COPY TABLE AS MARKUP -> REPLACE THIS TEXT WITH TABLE]
 
